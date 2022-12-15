@@ -18,5 +18,20 @@
     "email": "arian@arian.com",
     "password": "a93e1e2d94b83782efef77ca470afa24926cac03bd8ad6dd0df1bbcc1dc58b694c9ac6bae6906ad2f2dbeb456f8a855c086a586d962b276ba2776172b7f8c649.eb499959829b8642",
     "id": "c68a3629"
+  },
+  {
+    "email": "test@test.no",
+    "password": "fcdd1eebd511c68e848f96a2a8705541da57d19d17fdbc99431e50135da15afe4e5c1516f4d998fd713245232a8cefa79462ce6967081c967caa2c8b22ddfc4a.8a0a944036069a0a",
+    "id": "89f7acac"
+  },
+  {
+    "email": "tes@test.no",
+    "password": "8f7a15ecb05be7aea0a180a5b0ee7b4b77def653ebd39146af80345816db4be6e971837dbb5f72bed26eb3097febb744b4e9c3f13046d3da8217d5b1279de8d2.0efe09ad0a23f0dc",
+    "id": "f6baa135"
+  },
+  {
+    "email": "test@test.no",
+    "password": "d82f5e28956f59b594149946f60ea88e45a36ae987c5ab54509a843e83b139eca4981a4d357937f64660e83eb1ceb3667bf41cf5eeebe881d4b95389c1e13264.f9959cf2fefcec36",
+    "id": "a19326a2"
   }
 ]
